@@ -1,7 +1,7 @@
 {
   "title": "PORTFOLIO",
 
-  "description": "Viverra tristique placerat massa est consectetur quisque nu fames lorem ipsum dolor sit amet consectetu.",
+  "description": "Embark on a visual journey through my portfolio—a testament to the diverse projects I've passionately undertaken. From crafting seamless websites with a blend of CSS, HTML, and Bootstrap to leading the development of intricate B2B and B2C systems, my work reflects a commitment to excellence. Each project is not just a showcase of technical skills but a narrative of successful collaborations, strategic planning, and impactful outcomes. Explore the dynamic fusion of creativity and functionality that defines my portfolio—where every pixel, every line of code, and every project tells a unique story of innovation and success.",
 
   "portfolioItems": [
     {
@@ -11,8 +11,8 @@
         "number": 1
       },
       "description": {
-        "text": "Sneakers",
-        "caption": "Text"
+        "text": "The RV Advisor",
+        "caption": "Developed, managed and maintained 2 wordpress websites, 2 custom made systems, and a mobile app"
       }
     },
     {
@@ -22,8 +22,8 @@
         "number": 2
       },
       "description": {
-        "text": "Stairways",
-        "caption": "Text"
+        "text": "Ophyra Marketing Group",
+        "caption": "Developed and maintained over 15 wordpress sites using HTML, CSS, PHP, and site builders"
       }
     },
     {
@@ -33,8 +33,8 @@
         "number": 3
       },
       "description": {
-        "text": "Nature",
-        "caption": "Text"
+        "text": "VNV Events",
+        "caption": "Helped create and maintain website, CRM systems, calendar integrations and SEO campaings."
       }
     },
     {
@@ -44,8 +44,8 @@
         "number": 1
       },
       "description": {
-        "text": "Architecture",
-        "caption": "Video"
+        "text": "Verleur",
+        "caption": "Helped create, maintain and improve websites and improved backoffice developement."
       }
     },
     {
@@ -55,8 +55,8 @@
         "number": 2
       },
       "description": {
-        "text": "Art",
-        "caption": "Image"
+        "text": "Notice Ninja",
+        "caption": "Lead development team, improved backoffice integrations, documented and implemented SOC2 Compliance and improved SQL queries to reduce costs"
       }
     }
   ]
