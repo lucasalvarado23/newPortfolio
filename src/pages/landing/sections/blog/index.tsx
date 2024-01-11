@@ -19,7 +19,6 @@ function Blog() {
   return (
     <section id="blog" className="section">
       <h2 className="title">{blogData.title}</h2>
-      <div className="section-des">{blogData.description}</div>
 
       <ul className="home-blog-list">
         {blogData.posts.map((post, i: number) => (
