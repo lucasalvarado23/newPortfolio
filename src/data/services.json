@@ -1,0 +1,39 @@
+{
+  "title": "Elevate Your Digital Presence and Operational Efficiency",
+  "description": "Empowering Your Projects with Expertise",
+  "paragraphes": [
+    "Unlock the full potential of your projects with a seasoned Project Manager and Web Developer.",
+    "Are you seeking a professional with a proven track record in delivering successful B2B and B2C projects? Look no further. As a results-oriented Project Manager with five years of experience, I bring a unique blend of technical proficiency and strategic project management skills to the table."
+  ],
+  "servicesLinks": [
+    {
+      "to": "#",
+      "text": "DOWNLOAD RESUME"
+    }
+  ],
+  "servicesBoxes": [
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "Crafting Seamless Digital Experiences:",
+      "servDesc": "With expertise in CSS, HTML, jQuery, Bootstrap, and more, I specialize in creating captivating websites, from intricate e-commerce platforms to dynamic content management systems."
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "Strategic Project Leadership:",
+      "servDesc": "As a Project Manager at The RV Advisor, I oversaw end-to-end development, managing a substantial budget and optimizing resource allocation. Proficient in Waterfall, Agile, Scrum, and Kanban, my strategic approach ensures efficient project execution, complemented by adept risk management and stakeholder communication."
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "Driving Business Growth:",
+      "servDesc": "Backed by the Zero to 100M Business Growth Guide and Google Project Management Professional Certificate, my commitment to business growth is unwavering. Beyond technical prowess, I bring a strategic mindset focused on elevating your digital presence and operational efficiency, ensuring your projects pave the way for sustained success."
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "Innovative Problem Solver:",
+      "servDesc": "Known for my ability to think outside the box, I thrive on finding creative solutions to challenges. Whether it's optimizing processes, streamlining workflows, or troubleshooting complex issues, count on me to bring innovative problem-solving skills to your projects."
+    }
+  ]
+}

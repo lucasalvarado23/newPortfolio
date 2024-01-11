@@ -1,0 +1,51 @@
+{
+  "homeLink": {
+    "to": "/",
+    "text": "Lucas Alvarado"
+  },
+
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "services",
+      "text": "Services"
+    },
+    {
+      "to": "about",
+      "text": "About"
+    },
+    {
+      "to": "portfolio",
+      "text": "Portfolio"
+    },
+    {
+      "to": "blog",
+      "text": "Blog"
+    },
+    {
+      "to": "certificates",
+      "text": "Certificates"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+  "footLinks": [
+    {
+      "to": "#",
+      "text": "TikTok."
+    },
+    {
+      "to": "#",
+      "text": "Instagram."
+    },
+    {
+      "to": "#",
+      "text": "Linkedin."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "ABOUT",
+
+  "description": "As a dynamic and results-oriented project manager with a flair for web development, I bring five years of hands-on experience in shaping and delivering successful projects. I thrive on navigating the intricacies of both B2B and B2C landscapes, blending technical prowess with strategic acumen.",
+
+  "paragraphe1": "From boosting local business traffic by 20% to saving valuable company hours through CRM integrations, my journey as a software developer has been marked by impactful contributions. In consulting roles, I've crafted aesthetically pleasing WordPress websites, integrated e-commerce solutions, and masterminded remote projects with finesse.",
+
+  "aboutInfo": [
+    {
+      "title": "EMAIL",
+      "link": {
+        "to": "mailto:lucasalvarado23@gmail.com",
+        "text": "lucasalvarado23@gmail.com"
+      }
+    },
+    {
+      "title": "ROLE",
+      "text": "Project Manager/Web Developer"
+    },
+    {
+      "title": "PHONE",
+      "link": {
+        "to": "tel:+7862856476",
+        "text": "(786) 285 6476"
+      }
+    }
+  ],
+
+  "paragraphes": [
+    "Fuelled by a passion for technology, project management, and strategic innovation, I am your ally in navigating the digital landscape. From project conception to execution, I am committed to not only meeting but exceeding your expectations. Let's embark on a journey of digital transformation together.Welcome to a space where projects evolve, and visions come to life."
+  ]
+}
