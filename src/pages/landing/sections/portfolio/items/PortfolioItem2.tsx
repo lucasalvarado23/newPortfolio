@@ -20,7 +20,7 @@ function PortfolioItem2() {
   return (
     <div className="portfolio-item-wrapper">
       <div className="portfolio-content">
-        <h2 className="title">ART OF CAMERA</h2>
+        <h2 className="title">ITEM 2 </h2>
 
         <p className="section-des">
           Two ghostly white figures in coveralls and helmets are softly dancing.
