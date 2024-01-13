@@ -7,7 +7,8 @@
   ],
   "servicesLinks": [
     {
-      "to": "#",
+      "to": "https://drive.google.com/file/d/1KUZBsf_3XT-VV5cV_rz0lvD3hJURlpnS/view?usp=sharing",
+      "target": "_blank",
       "text": "DOWNLOAD RESUME"
     }
   ],
@@ -20,13 +21,13 @@
     {
       "imageAltText": "serv icon",
 
-      "servTitle": "Strategic Project Leadership:",
-      "servDesc": "As Project Manager at The RV Advisor, I led full development cycles, managed budgets, and optimized resources. Proficient in Waterfall, Agile, Scrum, and Kanban, my strategic approach ensures efficient project execution, with expertise in risk management and stakeholder communication."
+      "servTitle": "Project Leadership:",
+      "servDesc": "Proficient in Waterfall, Agile, Scrum, and Kanban, my strategic approach ensures efficient project execution, with expertise in risk management and stakeholder communication."
     },
     {
       "imageAltText": "serv icon",
 
-      "servTitle": "Driving Business Growth:",
+      "servTitle": "Business Growth:",
       "servDesc": "Backed by the Zero to 100M Business Growth Guide and Google Project Management Professional Certificate, my commitment to business growth is unwavering. Beyond technical prowess, I bring a strategic mindset focused on elevating your digital presence and operational efficiency, ensuring your projects pave the way for sustained success."
     },
     {

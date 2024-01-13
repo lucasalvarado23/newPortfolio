@@ -1,7 +1,7 @@
 import { Link as ScrollLink } from 'react-scroll';
 
 // Images
-import homeImage from '../../../../assets/images/home/lucas2.png';
+import homeImage from '../../../../assets/images/home/lucas4.jpg';
 import scrollIcon from '../../../../assets/images/home/scroll-icon.svg';
 
 // Styles
