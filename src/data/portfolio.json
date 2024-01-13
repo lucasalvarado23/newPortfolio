@@ -16,7 +16,7 @@
       }
     },
     {
-      "gridSize": "p-one-half",
+      "gridSize": "p-one",
       "action": {
         "type": "item",
         "number": 2

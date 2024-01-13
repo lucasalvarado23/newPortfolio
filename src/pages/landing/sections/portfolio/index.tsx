@@ -11,7 +11,7 @@ import PortfolioItem3 from './items/PortfolioItem3';
 
 // Images
 import portfolio1 from '../../../../assets/images/portfolio/RV.png';
-import portfolio2 from '../../../../assets/images/portfolio/ophyra.png';
+import portfolio2 from '../../../../assets/images/portfolio/ophyra2.png';
 import portfolio3 from '../../../../assets/images/portfolio/vnv.png';
 import portfolio4 from '../../../../assets/images/portfolio/tvg.png';
 import portfolio5 from '../../../../assets/images/portfolio/ninja.png';
