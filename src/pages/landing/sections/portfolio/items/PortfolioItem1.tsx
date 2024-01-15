@@ -7,19 +7,25 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 // Images
-import item1 from '../../../../../assets/images//portfolio/items/item1.jpg';
-import item2 from '../../../../../assets/images//portfolio/items/item2.jpg';
-import item3 from '../../../../../assets/images//portfolio/items/item3.jpg';
+import item1 from '../../../../../assets/images//portfolio/items/rv1.png';
+import item2 from '../../../../../assets/images//portfolio/items/rv2.png';
+import item3 from '../../../../../assets/images//portfolio/items/rv3.png';
 
 // Styles
 import './style.css';
 
 // -------------------
 
+
 function PortfolioItem1() {
   return (
     <div className="portfolio-item-wrapper">
       <div className="portfolio-content">
+      <a href="https://thervadvisor.com" target="_blank"><h2 className="title">The RV Advisor</h2></a>
+
+<p className="section-des">
+Consumer Union formed by RVers with a common interest. Our purpose is to protect consumer rights and stand together while navigating the complex RV Industry.
+</p>
         <div className="image-slider-wrapper relative block-right">
           <Swiper
             pagination={{ clickable: true }}
@@ -38,19 +44,8 @@ function PortfolioItem1() {
           </Swiper>
         </div>
 
-        <h2 className="title">ITEM 1</h2>
-
-        <p className="section-des">
-          Two ghostly white figures in coveralls and helmets are softly dancing.
-        </p>
-
         <p className="content-670">
-          Cras pretium metus pulvinar ultricies auctor. In varius purus blandit
-          sem mollis tristique. Curabitur sed lorem vel ligula pulvinar
-          porttitor. Proin sit amet mauris eleifend amet, ullamcorper lacus.
-          Vangelis rich in heavy atoms descended from astronomers dream of the
-          mind’s cras pretium metus pulvinar ultricies auctor in varius purus
-          blandit.
+          Played a crucial role in the transformation of RV Advisor's online platform, starting from a basic Wix landing page to a more sophisticated WordPress system and eventually to a custom PHP system capable of efficiently handling over 25,000 members. The transition from Wix to WordPress marked a shift towards a more flexible and scalable solution, while the development of the custom PHP system addressed the specific needs of a growing community. Your contributions likely focused on enhancing member management, scalability, and overall user experience. This evolution showcased your strategic approach to adapt the platform, ensuring it could meet the demands of a rapidly expanding user base while maintaining optimal performance and functionality.
         </p>
       </div>
     </div>

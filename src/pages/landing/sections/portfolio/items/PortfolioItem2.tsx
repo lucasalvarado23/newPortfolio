@@ -7,9 +7,9 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 // Images
-import item1 from '../../../../../assets/images//portfolio/items/item1.jpg';
-import item2 from '../../../../../assets/images//portfolio/items/item2.jpg';
-import item3 from '../../../../../assets/images//portfolio/items/item3.jpg';
+import item1 from '../../../../../assets/images//portfolio/items/ophyra.png';
+import item2 from '../../../../../assets/images//portfolio/items/ophyra1.png';
+import item3 from '../../../../../assets/images//portfolio/items/ophyra2.png';
 
 // Styles
 import './style.css';
@@ -20,20 +20,12 @@ function PortfolioItem2() {
   return (
     <div className="portfolio-item-wrapper">
       <div className="portfolio-content">
-        <h2 className="title">ITEM 2 </h2>
+        <a href='https://ophyra.com' target="_blank"><h2 className="title">Ophyra Marketing Group </h2></a>
 
         <p className="section-des">
-          Two ghostly white figures in coveralls and helmets are softly dancing.
+          SOCIAL MEDIA, PPC, LEAD GENERATION & WEB OPTIMIZATION
         </p>
 
-        <p className="content-670">
-          Cras pretium metus pulvinar ultricies auctor. In varius purus blandit
-          sem mollis tristique. Curabitur sed lorem vel ligula pulvinar
-          porttitor. Proin sit amet mauris eleifend amet, ullamcorper lacus.
-          Vangelis rich in heavy atoms descended from astronomers dream of the
-          mind’s cras pretium metus pulvinar ultricies auctor in varius purus
-          blandit.
-        </p>
         <div className="image-slider-wrapper relative block-right">
           <Swiper
             pagination={{ clickable: true }}
@@ -51,6 +43,10 @@ function PortfolioItem2() {
             </SwiperSlide>
           </Swiper>
         </div>
+
+        <p className="content-670">
+        I successfully created and managed a diverse portfolio of over 15 websites using WordPress, showcasing my versatile skills in web development. These websites encompassed a range of functionalities, including appointment systems, e-commerce platforms, blog sites, and lead generation portals. Leveraging the flexibility of WordPress, I designed and implemented intuitive appointment scheduling systems, seamless e-commerce experiences, engaging blogs, and effective lead generation mechanisms across these sites. My approach involved a keen understanding of each website's unique requirements, ensuring a tailored and user-friendly experience for visitors. Through effective project management and a comprehensive grasp of WordPress's capabilities, I not only developed these sites but also maintained their optimal performance, contributing to a successful and varied web presence for different purposes.
+        </p>
       </div>
     </div>
   );

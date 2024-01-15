@@ -8,6 +8,8 @@ import 'reactjs-popup/dist/index.css';
 import PortfolioItem1 from './items/PortfolioItem1';
 import PortfolioItem2 from './items/PortfolioItem2';
 import PortfolioItem3 from './items/PortfolioItem3';
+import PortfolioItem4 from './items/PortfolioItem4'; // New component for portfolio item 4
+import PortfolioItem5 from './items/PortfolioItem5'; // New component for portfolio item 5
 
 // Images
 import portfolio1 from '../../../../assets/images/portfolio/RV.png';
@@ -95,7 +97,6 @@ function Portfolio() {
                 <a
                   className="item-link"
                   onClick={() => {
-                    // according to action type we wil fire the function
                     if (
                       item?.action?.type === 'item' &&
                       typeof item?.action?.number === 'number'
@@ -133,6 +134,10 @@ function Portfolio() {
               <PortfolioItem2 />
             ) : portfolioItem === 3 ? (
               <PortfolioItem3 />
+            ) : portfolioItem === 4 ? (
+              <PortfolioItem4 /> // New component for portfolio item 4
+            ) : portfolioItem === 5 ? (
+              <PortfolioItem5 /> // New component for portfolio item 5
             ) : (
               <></>
             )}
@@ -140,34 +145,6 @@ function Portfolio() {
         )}
       </div>
       {/* Popups portfolio items */}
-      <Popup
-        open={openPortfolio !== 0}
-        closeOnDocumentClick
-        onClose={handleClosePopup}
-        modal>
-        <div className="my-popup">
-          <div
-            className="close-popup-btn"
-            role="button"
-            onClick={handleClosePopup}>
-            <img src={closeIcon} alt="close icon" />
-          </div>
-          {openPortfolio === 1 ? (
-            <p className="block-right poped-up-item" onClick={close}>
-              <iframe
-                src="https://player.vimeo.com/video/199192931"
-                width="100%"
-                allow="autoplay; fullscreen"></iframe>
-            </p>
-          ) : openPortfolio === 2 ? (
-            <div className="popup-image-box">
-              <img src={portfolio5} alt="portfolio image" />
-            </div>
-          ) : (
-            <></>
-          )}
-        </div>
-      </Popup>
     </section>
   );
 }
