@@ -7,9 +7,9 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 // Images
-import item1 from '../../../../../assets/images//portfolio/items/ophyra.png';
-import item2 from '../../../../../assets/images//portfolio/items/ophyra1.png';
-import item3 from '../../../../../assets/images//portfolio/items/ophyra2.png';
+import item1 from '../../../../../assets/images//portfolio/items/verleur1.png';
+import item2 from '../../../../../assets/images//portfolio/items/verleur2.png';
+import item3 from '../../../../../assets/images//portfolio/items/verleur3.png';
 
 // Styles
 import './style.css';
@@ -20,10 +20,10 @@ function PortfolioItem4() {
   return (
     <div className="portfolio-item-wrapper">
       <div className="portfolio-content">
-        <a href='https://vnvevents.com' target="_blank"><h2 className="title">ITEM 4 </h2></a>
+      <a href='https://verleur.com' target="_blank"><h2 className="title">Verleur </h2></a>
 
         <p className="section-des">
-        Hight level Event Management Agency in South Florida
+        25 YEARS OF ENTREPRENEURIAL EXECUTION. CAPTURING OPPORTUNITIES IN EVER-CHANGING MARKET
         </p>
 
         <div className="image-slider-wrapper relative block-right">

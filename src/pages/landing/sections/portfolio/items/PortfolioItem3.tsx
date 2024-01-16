@@ -7,11 +7,11 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 // Images
-import item1 from '../../../../../assets/images//portfolio/items/ophyra.png';
-import item2 from '../../../../../assets/images//portfolio/items/ophyra1.png';
-import item3 from '../../../../../assets/images//portfolio/items/ophyra2.png';
+import item1 from '../../../../../assets/images//portfolio/vnv1.png';
+import item2 from '../../../../../assets/images//portfolio/vnv2.png';
+import item3 from '../../../../../assets/images//portfolio/vnv3.png';
 
-// Styles
+// Styles 
 import './style.css';
 
 // -------------------
@@ -45,7 +45,8 @@ function PortfolioItem3() {
         </div>
 
         <p className="content-670">
-        I successfully created and managed a diverse portfolio of over 15 websites using WordPress, showcasing my versatile skills in web development. These websites encompassed a range of functionalities, including appointment systems, e-commerce platforms, blog sites, and lead generation portals. Leveraging the flexibility of WordPress, I designed and implemented intuitive appointment scheduling systems, seamless e-commerce experiences, engaging blogs, and effective lead generation mechanisms across these sites. My approach involved a keen understanding of each website's unique requirements, ensuring a tailored and user-friendly experience for visitors. Through effective project management and a comprehensive grasp of WordPress's capabilities, I not only developed these sites but also maintained their optimal performance, contributing to a successful and varied web presence for different purposes.
+        
+I've successfully developed and managed six dynamic WordPress websites, optimizing server performance with WP Engine, fine-tuning database queries, and implementing effective on-page SEO strategies. My hands-on approach ensures optimal functionality and sustained performance for a diverse online presence.
         </p>
       </div>
     </div>

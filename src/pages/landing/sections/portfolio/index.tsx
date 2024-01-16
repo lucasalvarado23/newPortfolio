@@ -144,7 +144,7 @@ function Portfolio() {
           </div>
         )}
       </div>
-      {/* Popups portfolio items */}
+
     </section>
   );
 }

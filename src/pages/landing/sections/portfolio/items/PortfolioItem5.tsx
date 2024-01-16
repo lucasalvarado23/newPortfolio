@@ -7,9 +7,9 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 // Images
-import item1 from '../../../../../assets/images//portfolio/items/ophyra.png';
-import item2 from '../../../../../assets/images//portfolio/items/ophyra1.png';
-import item3 from '../../../../../assets/images//portfolio/items/ophyra2.png';
+import item1 from '../../../../../assets/images//portfolio/items/ninja1.png';
+import item2 from '../../../../../assets/images//portfolio/items/ninja2.png';
+import item3 from '../../../../../assets/images//portfolio/items/ninja3.png';
 
 // Styles
 import './style.css';
@@ -20,10 +20,10 @@ function PortfolioItem5() {
   return (
     <div className="portfolio-item-wrapper">
       <div className="portfolio-content">
-        <a href='https://vnvevents.com' target="_blank"><h2 className="title">ITEM 5 </h2></a>
+        <a href='https://noticeninja.com' target="_blank"><h2 className="title">Notice Ninja </h2></a>
 
         <p className="section-des">
-        Hight level Event Management Agency in South Florida
+        Reduce the time your team spends on data entry for compliance notices with NOTICENINJA, software that automatically scans federal and state notices.
         </p>
 
         <div className="image-slider-wrapper relative block-right">
@@ -45,7 +45,7 @@ function PortfolioItem5() {
         </div>
 
         <p className="content-670">
-        I successfully created and managed a diverse portfolio of over 15 websites using WordPress, showcasing my versatile skills in web development. These websites encompassed a range of functionalities, including appointment systems, e-commerce platforms, blog sites, and lead generation portals. Leveraging the flexibility of WordPress, I designed and implemented intuitive appointment scheduling systems, seamless e-commerce experiences, engaging blogs, and effective lead generation mechanisms across these sites. My approach involved a keen understanding of each website's unique requirements, ensuring a tailored and user-friendly experience for visitors. Through effective project management and a comprehensive grasp of WordPress's capabilities, I not only developed these sites but also maintained their optimal performance, contributing to a successful and varied web presence for different purposes.
+        I excelled as a project manager in a consulting role, leading a team of six developers to successful project outcomes. Implementing strategic measures, I optimized database queries, resulting in cost savings on AWS RDS. Additionally, my expertise extended to achieving SOC 2 compliance, ensuring robust security protocols were seamlessly integrated into project workflows. My proactive project management approach and technical acumen contributed to the overall success of the team and project objectives.
         </p>
       </div>
     </div>

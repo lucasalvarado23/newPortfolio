@@ -40,8 +40,8 @@
     {
       "gridSize": "p-one-half",
       "action": {
-        "type": "popup",
-        "number": 1
+        "type": "item",
+        "number": 4
       },
       "description": {
         "text": "Verleur",
@@ -51,8 +51,8 @@
     {
       "gridSize": "p-one",
       "action": {
-        "type": "popup",
-        "number": 2
+        "type": "item",
+        "number": 5
       },
       "description": {
         "text": "Notice Ninja",
