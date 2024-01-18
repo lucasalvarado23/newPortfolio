@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /portfolio/
+Disallow: /blog/
+Disallow: /certificates/
+Disallow: /contact/
