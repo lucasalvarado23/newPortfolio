@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://lukitdev.com/</loc>
+      <lastmod>2024-02-09</lastmod> <!-- Adjust the date to reflect the last update -->
+      <changefreq>monthly</changefreq> <!-- Adjust based on how often you expect to update your landing page -->
+      <priority>1.0</priority> <!-- Highest priority as this is the main and only page -->
+   </url>
+</urlset>

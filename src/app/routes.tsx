@@ -13,18 +13,18 @@ import Navbar from '../components/Navbar';
  * In landing page case: nav links works as scrollable links
  * other case(such as : blog): nav links works as router links
  *
- * @param comonent the component to be rendered
+ * @param component the component to be rendered
  * @param isLanding check for a component if its the landingpage
  * @returns the given component with the Navbar
  */
 const renderWithNav = (
-  comonent: JSX.Element,
+  component: JSX.Element,
   isLanding: boolean
 ): JSX.Element => {
   return (
     <>
       <Navbar isLanding={isLanding} />
-      {comonent}
+      {component}
     </>
   );
 };
