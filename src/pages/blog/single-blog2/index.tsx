@@ -11,7 +11,7 @@ function BlogSingle() {
     <section className="single-blog 22222  section">
       <div className="container-wrap">
         {/* Blog TItle */}
-        <h1 className="entry-title">The Critical Importance of Keeping Your WordPress Site Updated: A Dive into WordPress 6.4.2</h1>
+        <h1 className="entry-title">The change Importance of Keeping Your WordPress Site Updated: A Dive into WordPress 6.4.2</h1>
 
         {/* sub info about the blog (date, category, author) */}
         <ul className="meta">
